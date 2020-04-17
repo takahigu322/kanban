@@ -66,3 +66,6 @@ gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
 
 gem 'pg', group: :production  # この1行を追加
+
+gem 'font-awesome-sass', '~> 5.12.0'
+gem 'devise'
